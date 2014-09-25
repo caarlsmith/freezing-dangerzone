@@ -25,3 +25,9 @@ msgstr "Anniversaire"
 
 msgid "uni"
 msgstr "Université"
+
+msgid "age"
+msgstr "Âge"
+
+msgid "home_page_title"
+msgstr "Bienvenue à notre page d'accueil"
