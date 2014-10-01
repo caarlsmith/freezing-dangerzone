@@ -6,3 +6,9 @@ msgstr "Birthday"
 
 msgid "uni"
 msgstr "University"
+
+msgid "age"
+msgstr "Age"
+
+msgid "home_page_title"
+msgstr "Welcome to our home page"
