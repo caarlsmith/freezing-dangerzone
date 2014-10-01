@@ -24,3 +24,6 @@ msgstr "Goodbye"
 
 msgid "morning"
 msgstr "Morning"
+
+msgid "night"
+msgstr "Night"
