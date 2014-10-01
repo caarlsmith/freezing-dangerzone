@@ -1,2 +1,8 @@
-msgid "Name"
+msgid "name"
 msgstr "Name"
+
+msgid "birthday"
+msgstr "Birthday"
+
+msgid "uni"
+msgstr "University"
