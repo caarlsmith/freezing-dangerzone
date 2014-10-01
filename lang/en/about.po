@@ -12,3 +12,6 @@ msgstr "Age"
 
 msgid "home_page_title"
 msgstr "Welcome to our home page"
+
+msgid "adding_another_translation"
+msgstr "Look at me! Adding another translation!"
