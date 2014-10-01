@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-09-25 10:22+0200\n"
-"PO-Revision-Date: 2014-09-25 12:46+0200\n"
+"PO-Revision-Date: 2014-09-25 13:53+0200\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: French "
 "<http://example.com/projects/weblate_test/weblate_test/fr/>\n"
@@ -25,3 +25,12 @@ msgstr "Anniversaire"
 
 msgid "uni"
 msgstr "Université"
+
+msgid "age"
+msgstr "Âge"
+
+msgid "home_page_title"
+msgstr "Bienvenue à notre page d'accueil"
+
+msgid "adding_another_translation"
+msgstr "Regardez-moi! Ajouter une autre traduction!"
