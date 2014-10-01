@@ -1,0 +1,11 @@
+msgid "carly_smith"
+msgstr "Carly Smith"
+
+msgid "age"
+msgstr "Twenty years old"
+
+msgid "fave_color"
+msgstr "Red"
+
+msgid "uni"
+msgstr "University of New Brunswick"
