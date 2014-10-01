@@ -15,3 +15,6 @@ msgstr "Welcome to our home page"
 
 msgid "adding_another_translation"
 msgstr "Look at me! Adding another translation!"
+
+msgid "hello"
+msgstr "Hello"
