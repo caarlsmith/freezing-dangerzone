@@ -1,0 +1,8 @@
+msgid "jan"
+msgstr "January"
+
+msgid "feb"
+msgstr "February"
+
+msgid "mar"
+msgstr "March"
