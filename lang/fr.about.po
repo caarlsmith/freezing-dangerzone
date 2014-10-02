@@ -52,12 +52,3 @@ msgstr "Lundi"
 
 msgid "tue"
 msgstr "Mardi"
-
-msgid "wed"
-msgstr "Wednesday"
-
-msgid "thu"
-msgstr "Thursdau"
-
-msgid "fri"
-msgstr "Friday"

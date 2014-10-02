@@ -33,3 +33,12 @@ msgstr "Monday"
 
 msgid "tue"
 msgstr "Tuesday"
+
+msgid "wed"
+msgstr "Wednesday"
+
+msgid "thu"
+msgstr "Thursday"
+
+msgid "fri"
+msgstr "Friday"
