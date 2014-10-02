@@ -27,3 +27,9 @@ msgstr "Morning"
 
 msgid "night"
 msgstr "Night"
+
+msgid "mon"
+msgstr "Monday"
+
+msgid "tue"
+msgstr "Tuesday"
