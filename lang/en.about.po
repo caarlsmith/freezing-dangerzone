@@ -42,3 +42,6 @@ msgstr "Thursday"
 
 msgid "fri"
 msgstr "Friday"
+
+msgid "sat"
+msgstr "Saturday"
